@@ -1,0 +1,39 @@
+2022-05-30 13:07:48,466 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website started
+2022-05-30 13:07:51,632 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website PASSED
+2022-05-30 13:09:54,368 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website started
+2022-05-30 13:09:56,441 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website PASSED
+2022-05-30 13:10:52,544 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website started
+2022-05-30 13:10:54,464 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website PASSED
+2022-05-30 14:38:44,585 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website started
+2022-05-30 14:38:51,321 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website PASSED
+2022-07-20 21:19:37,143 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website started
+2022-07-20 21:20:02,407 [main] INFO .\src\test\resources\input\log4j.properties - Scenario login to Retail Website PASSED
+2022-07-20 22:19:12,492 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-20 22:19:15,997 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-07-20 22:19:16,023 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-20 22:19:17,786 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-07-20 22:19:17,802 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-20 22:19:19,420 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2022-07-20 22:19:19,442 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-20 22:19:21,196 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2022-07-21 13:11:20,664 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-21 13:12:01,506 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-21 13:13:06,373 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-21 13:13:46,323 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-21 13:13:54,281 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-21 13:14:49,005 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-21 13:14:49,096 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-21 13:14:56,790 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabFAILED
+2022-07-21 13:15:31,860 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-21 13:16:34,409 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cartFAILED
+2022-07-21 13:16:34,441 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-21 13:18:09,292 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-21 13:19:12,290 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tabFAILED
+2022-07-21 13:19:12,373 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-21 13:19:25,421 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-21 13:19:47,299 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-07-21 13:20:49,624 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tabFAILED
+2022-07-21 13:21:57,463 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User verify all items are present in Desktops tab started
+2022-07-21 13:22:46,588 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add HP LP 3065 from Desktops tab to the cart started
+2022-07-21 13:22:53,494 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-07-21 13:23:00,372 [main] INFO .\src\test\resources\input\log4j.properties - Scenario User add a review to Canon EOS 5D item in Desktops tab started

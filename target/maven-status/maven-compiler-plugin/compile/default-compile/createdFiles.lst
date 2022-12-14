@@ -1,0 +1,11 @@
+page\objects\CanonEOS5DPage.class
+page\objects\LoginPage.class
+page\objects\DesktopsPage.class
+utilities\Util.class
+page\objects\RetailScenarioPage.class
+page\objects\LaptopAndNoteBooks.class
+core\Base.class
+page\objects\Canon5DReviewPage.class
+utilities\CucumberReportingConfig.class
+page\objects\HPLP3065Page.class
+page\objects\HomeCurrencyPage.class
